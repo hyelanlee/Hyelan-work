@@ -1,0 +1,7 @@
+@import "rc-easyui/dist/themes/default/easyui.css";
+@import "rc-easyui/dist/themes/icon.css";
+@import "rc-easyui/dist/themes/react.css";
+@import 'realgrid/dist/realgrid-style.css';
+@import 'react-perfect-scrollbar/dist/css/styles.css';
+@import 'realgrid/dist/realgrid-white.css';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@200;300;400;500;600;700;900&display=swap');

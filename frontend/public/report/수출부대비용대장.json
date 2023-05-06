@@ -1,0 +1,88 @@
+{
+  "data": [
+      {
+          "expexpenseno": "2023020002",
+          "custcd": "     ",
+          "custnm": null,
+          "h_custnm": null,
+          "lcno": null,
+          "ExpExpenseDate": "20230224",
+          "jukyonm": "가산세",
+          "total": 320000,
+          "Amount": 320000,
+          "FrToDate": "    2023-02-01 ~ 2023-02-28"
+      },
+      {
+          "expexpenseno": "2023020003",
+          "custcd": "00411",
+          "custnm": "버거킹 인천공항점",
+          "h_custnm": null,
+          "lcno": null,
+          "ExpExpenseDate": "20230224",
+          "jukyonm": null,
+          "total": 330000,
+          "Amount": 300000,
+          "FrToDate": "    2023-02-01 ~ 2023-02-28"
+      },
+      {
+          "expexpenseno": "2023020005",
+          "custcd": "00412",
+          "custnm": "무한장어",
+          "h_custnm": null,
+          "lcno": "",
+          "ExpExpenseDate": "20230228",
+          "jukyonm": "거래처선물대",
+          "total": 43474200,
+          "Amount": 39522000,
+          "FrToDate": "    2023-02-01 ~ 2023-02-28"
+      },
+      {
+          "expexpenseno": "2023020004",
+          "custcd": "00434",
+          "custnm": "(주)우리홀푸드마트 용원점",
+          "h_custnm": null,
+          "lcno": "",
+          "ExpExpenseDate": "20230227",
+          "jukyonm": "거래처선물대",
+          "total": 33000,
+          "Amount": 30000,
+          "FrToDate": "    2023-02-01 ~ 2023-02-28"
+      },
+      {
+          "expexpenseno": "2023020005",
+          "custcd": "00448",
+          "custnm": "신의주(상일동)",
+          "h_custnm": null,
+          "lcno": "",
+          "ExpExpenseDate": "20230228",
+          "jukyonm": "가산세",
+          "total": 11,
+          "Amount": 10,
+          "FrToDate": "    2023-02-01 ~ 2023-02-28"
+      },
+      {
+          "expexpenseno": "2023020006",
+          "custcd": "00455",
+          "custnm": "THE WAIN-ING COFFEE",
+          "h_custnm": null,
+          "lcno": "",
+          "ExpExpenseDate": "20230228",
+          "jukyonm": "가산세",
+          "total": 14491,
+          "Amount": 13174,
+          "FrToDate": "    2023-02-01 ~ 2023-02-28"
+      },
+      {
+          "expexpenseno": "2023020005",
+          "custcd": "00458",
+          "custnm": "월호텔",
+          "h_custnm": null,
+          "lcno": "",
+          "ExpExpenseDate": "20230228",
+          "jukyonm": "가산세",
+          "total": 106410,
+          "Amount": 96736,
+          "FrToDate": "    2023-02-01 ~ 2023-02-28"
+      }
+  ]
+}

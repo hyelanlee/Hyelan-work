@@ -1,0 +1,31 @@
+@import "./color.css";
+@import "./grid.css";
+
+html {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+body {
+  margin: 0;        
+}
+
+input, pre, .rg-root, textarea {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+input:disabled {
+  background-color: #d3d3d3!important;
+  color: #000000!important;
+}
+
+input:read-only {
+  color: #929292;
+}
+
+.combo > input:read-only {
+  color: #000000;
+}
+
+.MuiPickersPopper-root {
+  z-index: 99999 !important;
+}

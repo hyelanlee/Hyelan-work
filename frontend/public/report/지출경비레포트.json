@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "Costdate": "20221223",
+            "CostNo": "2022120045",
+            "CostSeq": "001",
+            "Remark": "09090999999999999999999999",
+            "JukyoNm": "거래처선물대(접)",
+            "CostAmt": 90000,
+            "UserNm": "",
+            "Title": "지출경비내역서",
+            "Dates": "기 간  :  2022/12/22/ ∼ 2022/12/27",
+            "Factorycode": "A00",
+            "sign1": "전결",
+            "sign2": ""
+        },
+        {
+            "Costdate": "20221223",
+            "CostNo": "2022120046",
+            "CostSeq": "001",
+            "Remark": "909090\\",
+            "JukyoNm": "가산세",
+            "CostAmt": 800000,
+            "UserNm": "",
+            "Title": "지출경비내역서",
+            "Dates": "기 간  :  2022/12/22/ ∼ 2022/12/27",
+            "Factorycode": "A00",
+            "sign1": "전결",
+            "sign2": ""
+        },
+        {
+            "Costdate": "20221226",
+            "CostNo": "2022120047",
+            "CostSeq": "001",
+            "Remark": "",
+            "JukyoNm": "거래처선물대",
+            "CostAmt": 9000,
+            "UserNm": "",
+            "Title": "지출경비내역서",
+            "Dates": "기 간  :  2022/12/22/ ∼ 2022/12/27",
+            "Factorycode": "A00",
+            "sign1": "전결",
+            "sign2": ""
+        },
+        {
+            "Costdate": "20221226",
+            "CostNo": "2022120048",
+            "CostSeq": "001",
+            "Remark": "",
+            "JukyoNm": "가산세",
+            "CostAmt": 9000,
+            "UserNm": "",
+            "Title": "지출경비내역서",
+            "Dates": "기 간  :  2022/12/22/ ∼ 2022/12/27",
+            "Factorycode": "A00",
+            "sign1": "전결",
+            "sign2": ""
+        },
+        {
+            "Costdate": "20221226",
+            "CostNo": "2022120049",
+            "CostSeq": "001",
+            "Remark": "54795795678''",
+            "JukyoNm": "거래처 조화대",
+            "CostAmt": 9000,
+            "UserNm": "8973",
+            "Title": "지출경비내역서",
+            "Dates": "기 간  :  2022/12/22/ ∼ 2022/12/27",
+            "Factorycode": "A00",
+            "sign1": "전결",
+            "sign2": ""
+        }
+    ]
+}

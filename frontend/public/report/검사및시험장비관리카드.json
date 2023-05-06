@@ -1,0 +1,23 @@
+{
+    "data"  : {
+        "data1"  : [{
+            "EqNo" : "APR-001",
+            "EqName" : "자동압력 기록계",
+            "EqSpec" : "규격임돠",
+            "EqSerialno" : "N",
+            "EqManufacturer" : "제작회사",
+            "CalibrationIntervalnm":"분기별",
+            "EqRemark":"ㅋㅋ"
+        }],
+        "data2"  : [{
+            "CalibrationDate" : "2021-01-30",
+            "CalibrationDueDate" : "2021-02-15"
+        }],
+        "data3"  : [{
+            "Photo" : ""
+        }],
+        "data4"  : [{
+            "Date" : "2021-02-15"
+        }]
+    } 
+}

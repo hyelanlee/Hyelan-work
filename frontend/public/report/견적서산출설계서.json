@@ -1,0 +1,188 @@
+{
+    "main"  : [
+        {
+            "ManagedNo":"CPP-21JY-001-R1",
+            "CalcDate" : "2021년 1월 19일",
+            "DeptNm" : "해외영업팀 박재용",
+            "PnoNm" : "박재용",
+            "PurchaseCust" : "China Pelroleum Pipeline Bureau (CPP)",
+            "Client" : "SAUDI ARAMCO",
+            "EPC": "China Pelroleum Pipeline Bureau (CPP)",
+            "ExportArea": "SAUDI ARABIA",
+            "Project": "North Gas Compression Plants (NGCP) Pipelines Project, BI-10-02029-0003",
+            "Item": "Cast Steel Swing Check Valves (60000000261)",
+            "PriceApplyRate": "100% (적용환율: 1350원)",
+            "ApplyExchange": "1000",
+            "Delievery": "BY 5 MONTHS (CIF) AFTER PRE-INSPECTION MEETING BY ARAMCO",
+            "PaymentCondNm": "30% 선수금 / 70% 선적전",
+            "ShippingCondNm": "CIF Damamam, Saudi Arabia",
+            "DueDate": "2021 02-15",
+            "RfqNo": "RFQ-42306-PI-MR-0011",
+            "Remark": "Note 1. Incoloy 825 Cladding 가격: 주조팀 RT 가격 + 간접 + 판관 + 이윤\n          1) 소재, 용접비용 (SBR), 용접봉 비용, PT, 모형비, 산처리, 황삭가공비 및 검사비 포함 \n        2. 페인트 비용: 생산운영팀 견적가\n        3. 825 Trim 적용\n          1) Cladding Item: DISC 제외 (Cladding 비용에 포함), STEM, BACK SEAT, SEAT RING\n          2) No Cladding Item: SOLID 가격 적용\n        4. Rev. 1 사유: Best Price 요청 (19-00112 대비 20% & 71% 인상)\n          1) Nego, Clad 이윤, CIF 조정: 전체 5.7% Discount.",
+            "data1"  : [
+                {
+                "ItemKind": "1",
+                "CalcSeq": "1",
+                "ItemTypeNm": "BASE PRICE",
+                "ApplyRate": "100% (Note)",
+                "Amount": "15700",
+                "Amount1": "15700",
+                "Amount2": "15700",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "2",
+                "ItemTypeNm": "CLAD",
+                "ApplyRate": "견적가",
+                "Amount": "30526",
+                "Amount1": "30526",
+                "Amount2": "30526",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "3",
+                "ItemTypeNm": "STELLITE",
+                "ApplyRate": "TABLE",
+                "Amount": "1148",
+                "Amount1": "1148",
+                "Amount2": "1148",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "4",
+                "ItemTypeNm": "TRIM",
+                "ApplyRate": "825 Trim 견적서",
+                "Amount": "2854",
+                "Amount1": "2854",
+                "Amount2": "2854",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "5",
+                "ItemTypeNm": "RT",
+                "ApplyRate": "TABLE",
+                "Amount": "1680",
+                "Amount1": "1680",
+                "Amount2": "1680",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "6",
+                "ItemTypeNm": "MT",
+                "ApplyRate": "BASE X 5%",
+                "Amount": "110",
+                "Amount1": "110",
+                "Amount2": "110",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "7",
+                "ItemTypeNm": "Corrosion Test",
+                "ApplyRate": "30만원 / 시편",
+                "Amount": "600",
+                "Amount1": "600",
+                "Amount2": "600",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "8",
+                "ItemTypeNm": "Cladding 간접",
+                "ApplyRate": "Cladding 비용 X 9.6%",
+                "Amount": "2930",
+                "Amount1": "2930",
+                "Amount2": "2930",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "9",
+                "ItemTypeNm": "Cladding 판관",
+                "ApplyRate": "Cladding 비용 X 8.4%",
+                "Amount": "2564",
+                "Amount1": "2564",
+                "Amount2": "2564",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "10",
+                "ItemTypeNm": "Cladding 이윤",
+                "ApplyRate": "Cladding 비용 X 5% => 3%",
+                "Amount": "1526",
+                "Amount1": "916",
+                "Amount2": "755",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "11",
+                "ItemTypeNm": "NACE",
+                "ApplyRate": "WCB BASE X 5%",
+                "Amount": "788",
+                "Amount1": "788",
+                "Amount2": "788",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "12",
+                "ItemTypeNm": "PAINT",
+                "ApplyRate": "생산운영견적가",
+                "Amount": "460",
+                "Amount1": "460",
+                "Amount2": "460",
+                "Remark1": ""
+            },
+            {
+                "ItemKind": "1",
+                "CalcSeq": "13",
+                "ItemTypeNm": "포장",
+                "ApplyRate": "WCB BASE X 2%",
+                "Amount": "316",
+                "Amount1": "316",
+                "Amount2": "316",
+                "Remark1": ""
+            }
+        ],
+        "data2"  : [
+        {
+            "SubItemKind": "2",
+            "SubCalcSeq": "1",
+            "SubItemTypeNm": "세부내역 (외화)",
+            "SubApplyRate": "Valve Amount (별첨 VALVE LIST)",
+            "SubAmount": "61204",
+            "SubAmount1": "60594",
+            "SubAmount2": "60433",
+            "SubRemark1": ""
+        },
+        {
+            "SubItemKind": "2",
+            "SubCalcSeq": "2",
+            "SubItemTypeNm": "세부내역 (외화)",
+            "SubApplyRate": "NEGO 3% => 0%",
+            "SubAmount": "1838",
+            "SubAmount1": "0",
+            "SubAmount2": "0",
+            "SubRemark1": ""
+        },
+        {
+            "SubItemKind": "2",
+            "SubCalcSeq": "3",
+            "SubItemTypeNm": "세부내역 (외화)",
+            "SubApplyRate": "CIF Charge (5% => 3%)",
+            "SubAmount": "3153",
+            "SubAmount1": "1818",
+            "SubAmount2": "1818",
+            "SubRemark1": ""
+        }
+        ]
+        }
+    ]
+}

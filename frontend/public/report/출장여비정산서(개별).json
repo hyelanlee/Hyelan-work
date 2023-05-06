@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "BussTravelName": "김지혜     (동행자 : 주현미대리, 윤한원과장)",
+            "BussTravelDay": "2022.09.01 ~ 2022.09.01  ( 1일간 )",
+            "BussTravelDest": "서울(대우건설 본사)",
+            "JukyoName": "지방출장시 식대, 9/1,김지혜 외 2명 식사,만석장 롯데몰김포공항점",
+            "BussTravelCurrNm": "",
+            "BussTravelForeAmt": 0,
+            "KorAmt": 40000,
+            "JukyoGbnNm": "카드",
+            "SubTotCashAmt": 0,
+            "SubTotForeCashAmt": 0,
+            "SubTotCardAmt": 53500,
+            "SubTotEtcAmt": 0
+        },
+        {
+            "BussTravelName": "김지혜     (동행자 : 주현미대리, 윤한원과장)",
+            "BussTravelDay": "2022.09.01 ~ 2022.09.01  ( 1일간 )",
+            "BussTravelDest": "서울(대우건설 본사)",
+            "JukyoName": "지방출장시 식대, 9/1,김지혜 외 2명 커피,을지트윈타워점",
+            "BussTravelCurrNm": "",
+            "BussTravelForeAmt": 0,
+            "KorAmt": 13500,
+            "JukyoGbnNm": "카드",
+            "SubTotCashAmt": 0,
+            "SubTotForeCashAmt": 0,
+            "SubTotCardAmt": 53500,
+            "SubTotEtcAmt": 0
+        }
+    ]
+}

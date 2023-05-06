@@ -1,0 +1,25 @@
+{
+    "data"  : {
+        "data1"  : [{
+            "Shipper" : "KEYSUNGMETAL CO.,LTD ",
+            "ShipperAddr" : "20,NOKSANSANDAN 17-RO, GANSEO-GU,BUSAN,KOREA",
+            "TotalShipper":"KEYSUNGMETAL CO.,LTD ",
+            "Consignee" : "UNITED ENGINEERING GENERAL TRADING & CONTRACT CO.WLL ",
+            "ConsigneeAddr" : "PO.BOX 47914 FAHAHEEL. POSTAL CODE-64030 KUWAIT.SECTOR-8,PLOT NO-43, STREET NO-341 TEL:(+965)-23720601 FAX:23987838",
+            "TotalConsignee":"KEYSUNGMETAL CO.,LTD ",
+            "NotifyPaty" : "select ROW_NUMBER() over (order by invoicei.Exinvoiceno desc) as Rowno                      , invoiceh.Loadport                      , invoiceh.Arrivalport                      , ISNULL(m145.Minornm, '') as LoadPortnm                      , ISNULL(m146.Minornm, '') as ArrivalPortnm",
+            "StorageCode" : "ASDASD",
+            "Discharging" : "CHINA",
+            "Loading" :     "KOREA",
+            "DateInvoice" : "CLAJW133LALS",
+            "GenerateDate" : "20210302",
+            "PackageNo":"2 OF 2",
+            "TotalNetweight":"513.0(KGS)",
+            "Grossweight":"1,813.0(KGS)",
+            "Dimension":"L X W X H",
+            "Pono":"26071-100-POB-PV00-00002",
+            "TradeCondition" : "TOTAL FFF VALUE",
+            "Pjt":"RDMP RU-V BALIKPAPAN PJT"
+        }]
+    }
+}
